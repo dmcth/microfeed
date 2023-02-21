@@ -126,11 +126,11 @@ export const PREDEFINED_SUBSCRIBE_METHODS = {
 };
 
 export const OUR_BRAND = {
-  domain: 'microfeed.org',
-  brandName: 'microfeed',
+  domain: 'manga-animi.com',
+  brandName: 'manga-animi',
   whatsnewEndpoint: 'https://www.microfeed.org/json/',
-  whatsnewWebsite: 'https://www.microfeed.org',
-  exampleCdnUrl: 'https://media-cdn.microfeed.org',
+  whatsnewWebsite: 'https://www.manga-animi.com',
+  exampleCdnUrl: 'https://media-cdn.manga-animi.com',
 };
 
 export const ENCLOSURE_CATEGORIES = {
@@ -181,19 +181,19 @@ export const NAV_ITEMS = {
 
 export const NAV_ITEMS_DICT = {
   [NAV_ITEMS.ADMIN_HOME]: {
-    name: 'Home',
+    name: 'หน้าแรก (ไปยุ่งดะตีมือหัก)',
   },
   [NAV_ITEMS.EDIT_CHANNEL]: {
-    name: 'Edit channel',
+    name: 'แก้ไขช่อง',
   },
   [NAV_ITEMS.NEW_ITEM]: {
-    name: 'Add new item',
+    name: 'อัพโหลดไฟล์',
   },
   [NAV_ITEMS.ALL_ITEMS]: {
-    name: 'See all items',
+    name: 'ดูไฟล์ที่อัพไป',
   },
   [NAV_ITEMS.SETTINGS]: {
-    name: 'Settings',
+    name: 'ตั้งค่า(ไปยุ่งดะตีมือหัก)',
   },
 };
 
